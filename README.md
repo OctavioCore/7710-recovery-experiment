@@ -287,6 +287,10 @@ Na dziś mamy bardzo mocny łańcuch:
 
 **19,5 V → PU1400 ma VIN/VCC → DISB# aktywuje układ → GH/GL próbują sterować → `+VCC_GT` tylko ~0,2–0,3 V → natychmiast spada do 0 V.**
 
+# 18. SYS_PWROK_R
+
+Nawet bez wciśnięcia power, 3.3v.
+
 Jednocześnie:
 
 **VCORE ~1,1 V, VCCSA ~1,0–1,1 V, VCCST ~1,0 V** są obecne.
