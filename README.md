@@ -65,10 +65,8 @@ Nie zaobserwowaliśmy zaniku tego sygnału.
 
 **PR507 pin 2**
 
-* przed Power: **3,3 V**
+* przed Power: **0 V**
 * po Power: **3,3 V**
-
-Nie obserwowaliśmy multimetrem wyraźnego impulsu, tylko poziom wysoki.
 
 ---
 
