@@ -270,6 +270,13 @@ Po flashowaniu **zachowanie płyty nie zmieniło się** — nadal dokładnie ten
 
 ---
 
+# 16. RUNPWROK
+
+Podczas startu:
+
+* przed Power: **0 V**
+* potem: **3,3 V**
+
 ## Najważniejszy obraz sytuacji
 
 Na dziś mamy bardzo mocny łańcuch:
@@ -283,3 +290,5 @@ Jednocześnie:
 A **clean-ME nie zmienił zachowania**.
 
 Kolejne kroki: **diagnostyka sprzętowa sekcji VCCGT / obciążenia GT** -> ustalenie, **co dokładnie dzieje się na fazach VCCGT w czasie tych pierwszych kilkuset mikrosekund/milisekund**.
+
+
