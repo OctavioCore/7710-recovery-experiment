@@ -277,6 +277,10 @@ Podczas startu:
 * przed Power: **0 V**
 * potem: **3,3 V**
 
+# 17. PCH_DPWROK
+
+Zarówno przed, jak i po power, 3,3v.
+
 ## Najważniejszy obraz sytuacji
 
 Na dziś mamy bardzo mocny łańcuch:
