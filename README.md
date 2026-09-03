@@ -236,7 +236,7 @@ Zaobserwowane praktycznie:
 * brak podświetlenia / brak normalnego POST
 * wcześniej brak reakcji Caps Lock
 * wentylatory pracują
-* CPU Xeon E3-1545M szybko się nagrzewa
+* CPU Xeon E3-1545M relatywnie szybko się nagrzewa bez coolera - raczej normalne dla tej klasy CPU
 * przy braku RAM płyta generuje prawidłowy kod błędu pamięci
 * dGPU zostało wyjęte — **bez poprawy**
 * recovery **Ctrl+Esc + podłączenie zasilacza działa**
